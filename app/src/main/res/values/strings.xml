@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">HtmlTextExample</string>
+  <string name="html_text">
+    <![CDATA[
+    <big><big><font color="#B00000">This is a red</font></big></big>
+    <br/>
+    <font color="#080808">This is a black.</font>
+    ]]>
+  </string>
+</resources>
